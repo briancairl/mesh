@@ -1,6 +1,7 @@
 #include "mesh.h"
-
+#include "stdio.h"
 #if __cplusplus
+
 namespace Mesh {
 	using namespace std;
 #endif
